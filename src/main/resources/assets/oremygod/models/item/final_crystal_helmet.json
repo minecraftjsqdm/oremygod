@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "oremygod:item/final_crystal_helmet"
+  }
+}

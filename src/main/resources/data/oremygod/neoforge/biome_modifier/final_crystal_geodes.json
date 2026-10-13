@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#oremygod:final_crystal_geodes",
+  "features": [
+    "oremygod:amethyst_geodes_half",
+    "oremygod:final_crystal_geodes"
+  ],
+  "step": "underground_structures"
+}

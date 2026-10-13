@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    { "item": "oremygod:change_jade" },
+    { "item": "oremygod:change_jade" },
+    { "item": "minecraft:end_stone" },
+    { "item": "oremygod:change_jade_upgrade_smithing_template" }
+  ],
+  "result": {
+    "id": "oremygod:change_jade_upgrade_smithing_template",
+    "count": 2
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "oremygod:change_jade" }
+  ],
+  "result": {
+    "id": "oremygod:change_jade_nugget",
+    "count": 9
+  }
+}

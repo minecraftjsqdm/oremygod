@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": { "item": "oremygod:budding_final_crystal" },
+  "result": { "id": "oremygod:raw_final_crystal", "count": 1 },
+  "experience": 0.7,
+  "cookingtime": 200
+}

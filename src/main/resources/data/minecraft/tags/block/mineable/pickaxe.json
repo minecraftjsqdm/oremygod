@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "oremygod:end_meteorite",
+    "oremygod:end_meteorite_block",
+    "oremygod:change_jade_ore",
+    "oremygod:change_jade_block",
+    "oremygod:final_crystal_block",
+    "oremygod:final_crystal_cluster"
+  ]
+}

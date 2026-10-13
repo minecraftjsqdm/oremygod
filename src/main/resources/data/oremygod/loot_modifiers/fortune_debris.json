@@ -1,0 +1,9 @@
+{
+  "type": "oremygod:fortune_debris",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "oremygod:blocks/end_meteorite"
+    }
+  ]
+}

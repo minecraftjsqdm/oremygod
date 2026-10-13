@@ -1,0 +1,9 @@
+{
+  "values": [
+    { "id": "blackfarshore:black_far_shore", "required": false },
+    { "id": "blackfarshore:ashen_flats", "required": false },
+    { "id": "blackfarshore:obsidian_spires", "required": false },
+    { "id": "blackfarshore:shattered_wasteland", "required": false },
+    { "id": "blackfarshore:rift_valley", "required": false }
+  ]
+}

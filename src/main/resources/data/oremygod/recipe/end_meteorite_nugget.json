@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "oremygod:end_meteorite_ingot" }
+  ],
+  "result": {
+    "id": "oremygod:end_meteorite_nugget",
+    "count": 9
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "oremygod:change_jade_upgrade_smithing_template"
+  },
+  "base": {
+    "item": "oremygod:end_meteorite_leggings"
+  },
+  "addition": {
+    "item": "oremygod:change_jade"
+  },
+  "result": {
+    "id": "oremygod:change_jade_leggings"
+  }
+}

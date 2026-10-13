@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#oremygod:change_jade_ores",
+  "features": "oremygod:change_jade_ore",
+  "step": "underground_ores"
+}

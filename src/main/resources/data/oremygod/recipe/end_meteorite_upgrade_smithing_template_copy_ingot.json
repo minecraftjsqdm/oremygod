@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    { "item": "minecraft:netherite_ingot" },
+    { "item": "minecraft:netherite_ingot" },
+    { "item": "minecraft:end_stone" },
+    { "item": "oremygod:end_meteorite_upgrade_smithing_template" }
+  ],
+  "result": {
+    "id": "oremygod:end_meteorite_upgrade_smithing_template",
+    "count": 2
+  }
+}

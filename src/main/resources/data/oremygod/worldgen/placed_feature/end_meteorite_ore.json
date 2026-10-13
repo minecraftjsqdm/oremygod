@@ -1,0 +1,30 @@
+{
+  "feature": "oremygod:end_meteorite_ore",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 3
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": {
+          "above_bottom": 0
+        },
+        "max_inclusive": {
+          "below_top": 0
+        }
+      }
+    },
+    {
+      "type": "oremygod:exposed_to_air"
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": {
+    "item": "oremygod:end_meteorite_debris"
+  },
+  "result": {
+    "id": "oremygod:end_meteorite_scrap"
+  },
+  "experience": 2.0,
+  "cookingtime": 200
+}

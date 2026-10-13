@@ -1,0 +1,78 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:block_state_property",
+          "block": "oremygod:final_crystal_cluster",
+          "properties": {
+            "age": "100"
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "oremygod:raw_final_crystal",
+          "functions": [
+            {
+              "function": "oremygod:final_crystal_fortune"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:block_state_property",
+          "block": "oremygod:final_crystal_cluster",
+          "properties": {
+            "age": "100"
+          }
+        },
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.5
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "oremygod:raw_final_crystal"
+        }
+      ]
+    },
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:block_state_property",
+          "block": "oremygod:final_crystal_cluster",
+          "properties": {
+            "age": "75"
+          }
+        },
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.5
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "oremygod:raw_final_crystal",
+          "functions": [
+            {
+              "function": "oremygod:final_crystal_fortune"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "random_sequence": "oremygod:blocks/final_crystal_cluster"
+}

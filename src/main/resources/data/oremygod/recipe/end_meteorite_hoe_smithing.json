@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "oremygod:end_meteorite_upgrade_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:netherite_hoe"
+  },
+  "addition": {
+    "item": "oremygod:end_meteorite_ingot"
+  },
+  "result": {
+    "id": "oremygod:end_meteorite_hoe"
+  }
+}

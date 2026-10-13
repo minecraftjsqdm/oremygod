@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "X": { "item": "oremygod:end_meteorite_ingot" }
+  },
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "result": {
+    "id": "oremygod:end_meteorite_block",
+    "count": 1
+  }
+}

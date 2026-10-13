@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "oremygod:final_crystal_block" }
+  ],
+  "result": {
+    "id": "oremygod:final_crystal_ball",
+    "count": 9
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "oremygod:moon_dungeon_template",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "ad_astra:chests/dungeon/moon/large_dungeon_chest"
+    }
+  ],
+  "chance": 0.25
+}

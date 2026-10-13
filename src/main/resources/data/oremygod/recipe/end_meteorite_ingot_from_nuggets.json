@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": { "item": "oremygod:end_meteorite_nugget" }
+  },
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "result": {
+    "id": "oremygod:end_meteorite_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "oremygod:item/impure_molten_final_crystal_bucket"
+  }
+}

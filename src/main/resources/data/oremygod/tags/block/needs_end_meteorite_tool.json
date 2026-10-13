@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "oremygod:change_jade_ore",
+    "oremygod:change_jade_block",
+    "oremygod:final_crystal_block",
+    "oremygod:final_crystal_cluster"
+  ]
+}

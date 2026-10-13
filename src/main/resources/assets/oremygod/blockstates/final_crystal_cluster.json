@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=down":  { "model": "oremygod:block/final_crystal_cluster", "x": 180 },
+    "facing=up":    { "model": "oremygod:block/final_crystal_cluster" },
+    "facing=north": { "model": "oremygod:block/final_crystal_cluster", "x": 90 },
+    "facing=south": { "model": "oremygod:block/final_crystal_cluster", "x": 90, "y": 180 },
+    "facing=west":  { "model": "oremygod:block/final_crystal_cluster", "x": 90, "y": 270 },
+    "facing=east":  { "model": "oremygod:block/final_crystal_cluster", "x": 90, "y": 90 }
+  }
+}

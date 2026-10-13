@@ -1,0 +1,16 @@
+{
+  "sources": [
+    {
+      "type": "single",
+      "resource": "oremygod:item/empty_slot_change_jade"
+    },
+    {
+      "type": "single",
+      "resource": "oremygod:item/empty_slot_end_meteorite_ingot"
+    },
+    {
+      "type": "single",
+      "resource": "oremygod:item/empty_slot_final_crystal"
+    }
+  ]
+}
