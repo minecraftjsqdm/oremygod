@@ -1,6 +1,6 @@
 # 挖嘞个雷 / End Meteorite & Change Jade
 
-NeoForge 1.21.1 · MIT · mod id `oremygod` · v1.0.0
+NeoForge 1.21.1 · MIT · mod id `oremygod` · v1.1.0
 
 ## English
 
@@ -43,7 +43,7 @@ $env:JAVA_HOME='<path-to-jdk21>'; .\gradlew.bat build --console=plain -q
 JAVA_HOME=<path-to-jdk21> ./gradlew build
 ```
 
-Output jar: `build/libs/oremygod-1.0.0.jar`. 产物：`build/libs/oremygod-1.0.0.jar`。
+Output jar: `build/libs/oremygod-1.1.0.jar`. 产物：`build/libs/oremygod-1.1.0.jar`。
 
 ## License / 许可
 
